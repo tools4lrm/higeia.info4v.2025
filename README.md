@@ -10,4 +10,7 @@ eficazes e eficientes, evitando assim que uma decisão gerancial seja pautado se
 os seguintes requisitos foram brevemente capturados para projetarmos um sistema que permita acompanhar um paciente da acolhida/entrada até a sua alta/saída, 
 registrando todos os dados e oferecendo informações para direcionarmos os procedimentos.
 
-### Iteração-I
+### Iteração-I: Validação Arquitetural
+
+Nesse primeiro momento, como uma prova de conceito e viabilidade arquitetural, trabalharemos a necessidade hospital em armazenar dados dos leitos em diferentes alas. 
+O sistema deverá permitir o armazenamento de um número fixo, já que cada ala tem um número limitado de leitos.
