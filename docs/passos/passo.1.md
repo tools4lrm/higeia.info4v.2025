@@ -12,7 +12,7 @@
 		<version>3.3.0</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.edu</groupId>
+	<groupId>br.edu.ifrn</groupId>
 	<artifactId>higeia</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Higeia</name>
@@ -30,11 +30,6 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
-		</dependency>
-
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-thymeleaf</artifactId>
 		</dependency>
 
 		<dependency>
