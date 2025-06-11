@@ -1,10 +1,10 @@
-package main.java.br.edu.ifrn.higeia;
-import org.springframework.web.bind.annotation.RestController;
-import org.springframework.webbind.annotation.GetMapping;
-@restController
-    
+package br.edu.ifrn.higeia;
+
+import org.springframework.web.bind.annotation.*;
+
+@RestController    
 public class OlaSpringBoot {
-    @getMapping("/")
+    @GetMapping("/")
     public String index (){
         return "olá Spring Boot";
     }

@@ -1,11 +1,12 @@
-package main.java.br.edu.ifrn.higeia;
-import org.springframework.boot.SprinApplication;
-import org.springframework.boot.autoconfigure.SprinApplication;
-@SringBootApplication
+package br.edu.ifrn.higeia;
 
-public class Aplocation {
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Aplication {
 public static void main(String[] args) {
-    SpringApplication.run(Application.class,args);
+    SpringApplication.run(Aplication.class,args);
 }
 
 }
