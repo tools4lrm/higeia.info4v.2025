@@ -29,5 +29,7 @@ app/target/
 hs_err_pid*
 replay_pid*
 
+#e esse diretorio 
 .vscode/
 target/
+
