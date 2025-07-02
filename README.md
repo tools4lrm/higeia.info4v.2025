@@ -1,4 +1,4 @@
-# Hospital LD
+# Higeia INFO4V.2025
 
 Para conectar a teoria à prática de forma natural, criaremos um contexto fictício neste repositório que será utilizado com intuito de provocar discussões sobre conceitos e práticas de Programação para Internet com a turma ([148050 - TIN.0041 - Programação para Internet](https://suap.ifrn.edu.br/edu/meu_diario/148050/1/)). Para isso, a proposta é que o período de **iteração**, tempo necessário para darmos uma volta no ciclo de desenvolvimento de software, possa ser representado por bimestres para promovermos **incrementos** no produto. Nesse período, os passos executados em sala serão registrados em unidades de estudos e publicados no [Drive](https://drive.google.com/drive/folders/12eTzZcaTXe1pBRHvDA4F8UWky0SI3rie?usp=drive_link)  os encontros serão utilizados para compreendermos o conteúdo da disciplina e o problema que queremos solucionar para desenvolvermos uma solução adequada (ver [Modelo de Desenvolvimento de Software Interativo e Incremental](https://pt.wikipedia.org/wiki/Desenvolvimento_iterativo_e_incremental)). 
 
